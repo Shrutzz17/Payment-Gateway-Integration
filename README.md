@@ -6,3 +6,7 @@ A simple website where payment gateway is integrated.
 ◇ Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
 
 ◇ On any page / email, only basic information is needed.
+
+Website Link: https://shrutika-pays.netlify.app/
+
+Contact info: https://www.linkedin.com/in/shrutika-yadav-2a6214186/
